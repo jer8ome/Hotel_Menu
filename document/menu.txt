@@ -1,0 +1,44 @@
+﻿宫保鸡球	Kung Pao Chicken	18.0
+鱼香茄子	Braised Egg plant	10.0
+麻婆豆腐	Bean Sauce Tofu 	12.0
+锅贴	Pot Sticker 	6.0
+酥炸大虾	Fried Prawns 	20.0
+五香牛展	Special Beef 	22.0
+白云凤爪	Chicken Leg 	10.0
+脆皮春卷	Spring Rolls 	8.0
+酸辣汤	Hot & Sour Soup 	10.0
+芥菜肉片咸蛋汤	Mustard Green Salted Egg Soup 	15.0
+豉椒炒肉蟹	Crab	20.0 
+上汤姜葱焗蟹	Green Onion Crab 	20.0
+椒盐蟹	Spicy Salt Crab 	20.0
+粉丝咖喱蟹煲	Rice Noodle Curry Crab 	22.0
+蒜茸蒸虾	Steam Prawn w/ Garlic Sauce 	20.0
+豆瓣酱鲜鱿	Fresh Squid 	18.0
+脆皮炸子鸡(半)	Fried Chicken (Half) 	30.0
+北京片皮鸭	Peking Duck 	30.0
+西芹腰果鸡球	Vegetable Cashew Chicken 	18.0
+咖喱鸡	Curry Chicken 	18.0
+豉汁炒鸡球	Chicken w/ Black Bean Sauce 	19.0
+宫保鸡球	Kung Pao Chicken 	20.0
+椒盐排骨	Pepper Salt Spareribs 	18.0
+豉椒焖排骨	Spareribs w/ Black Bean, Pepper 	20.0
+干扁牛柳丝	String Beef 	22.0
+北菇海参煲	Mushroom Sea Cucumber Duck Feet 	25.0
+诸诸滑鸡煲	Chicken Clay Pot 	22.0
+支竹羊腩煲	Dry Tofu Lamb Clay Pot 	25.0
+豪油冬菇	Oyster Sauce Mushroom 	12.0
+清炒芥兰	Chinese Green Tender 	8.0
+盐水菜心	Salt Green Tender 	9.0
+干扁四季豆	String Bean Western Style 	8.0
+上汤芥菜胆	Mustard Green Tender 	10.0
+杨州炒饭	Yang Chow Fried Rice 	10.0
+虾仁炒饭	Shrimp Fried Rice 	12.0
+蕃茄牛肉炒饭	Tomato w/ Beef Fried Rice 	14.0
+生菜丝炒牛肉饭	Beef Fried Rice w/ Lettuce 	12.0
+招牌炒面	House Chow Mein 	11.0
+上汤水饺	Dumpling Soup 	12.0
+上汤云吞	Won Ton soup 	8.0
+丝苗白饭	Steam Rice 	5.0
+玫瑰红豆沙	Red Bean Soup 	8.0
+椰汁西米露	Coconut Tapioca 	8.0
+炒什菜	Sautéed Assorted Vegetable	10.0
